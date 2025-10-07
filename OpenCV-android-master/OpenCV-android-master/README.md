@@ -1,7 +1,7 @@
 ## OpenCV-android
 
 
-## 预览
+
 <div align="center">
 	<img src="https://github.com/shenhuanet/OpenCV-android/blob/master/art/pic001.png"/>
 	<img src="https://github.com/shenhuanet/OpenCV-android/blob/master/art/pic002.png"/>
